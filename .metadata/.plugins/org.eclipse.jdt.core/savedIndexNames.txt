@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\1DT\Desktop\Murilo\Validador de CPF\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3617674871.index
+471873615.index
